@@ -7,4 +7,5 @@ Pour la base de données :
 
 Il faut créer deux tables :
 1 - users [id (AI), username (varchar(255)), password (varchar(255)), badgeID(int(11))]
+
 2 - activity [id (AI), username (varchar(255)), day (date), hour (time)]
